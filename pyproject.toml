@@ -14,7 +14,10 @@ dependencies = [
     "scipy<1.14",
     "seaborn>=0.13.2",
     "statannotations>=0.7.2",
+    "sympy>=1.14.0",
+    "tabulate>=0.10.0",
     "torch==2.2.2",
+    "torch-geometric>=2.8.0.post1",
 ]
 
 [tool.uv.sources]
